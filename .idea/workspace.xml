@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b79b1c-74a7-4571-9c47-040caf16a9a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/case-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameBalll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caseStudy/balll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caseStudy/gameBall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adamAndEva/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adamAndEva/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adamAndEva/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adamAndEva/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adamAndEva/practiceAdamEva.html" beforeDir="false" afterPath="$PROJECT_DIR$/../adamAndEva/practiceAdamEva.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bien/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bien/Lapss2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bien/Lapss2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caseStudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseStudy/ball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classRoom/lopHoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../classRoom/lopHoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../find/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../find/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funnyCircle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funnyCircle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guestNumber/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guestNumber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guestNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guestNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guestNumber/gameGuestNum.html" beforeDir="false" afterPath="$PROJECT_DIR$/../guestNumber/gameGuestNum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pracDoYouLoveMe" beforeDir="false" afterPath="$PROJECT_DIR$/../pracDoYouLoveMe" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Q0ewnmSCS1YhlG7gHVtWgjqWJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b79b1c-74a7-4571-9c47-040caf16a9a7" name="Default Changelist" comment="" />
+      <created>1566912181463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566912181463</updated>
+      <workItem from="1566912182780" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
